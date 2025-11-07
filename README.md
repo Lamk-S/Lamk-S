@@ -1,6 +1,6 @@
 <!-- Banner con texto sobre la imagen -->
 <div align="center" style="position: relative; text-align: center;">
-  <img src="https://www.xtrafondos.com/wallpapers/3840x2160/5487-comer-dormir-codificar-repetir.html" 
+  <img src="A_digital_graphic_design_banner_features_@Lamk-S.j´g" 
        alt="Comer Dormir Codificar Repetir" 
        width="100%" />
 
