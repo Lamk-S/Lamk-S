@@ -1,12 +1,14 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="A_digital_graphic_design_banner_features_@Lamk-S.png" alt="@Lamk-S - Desarrollador Full Stack" width="100%" />
-</p>
+<!-- Banner con texto sobre la imagen -->
+<div align="center" style="position: relative; text-align: center;">
+  <img src="https://www.xtrafondos.com/wallpapers/3840x2160/5487-comer-dormir-codificar-repetir.html" 
+       alt="Comer Dormir Codificar Repetir" 
+       width="100%" />
 
-<!-- Encabezado -->
-<h1 align="center">@Lamk-S</h1>
-<h3 align="center">💻 Desarrollador Full Stack</h3>
-<p align="center">🚀 Proyectos Académicos / Personales</p>
+  <!-- Título y subtítulos -->
+  <h1 style="margin-top: -150px; color: white; font-size: 42px;">@Lamk-S</h1>
+  <h3 style="margin-top: -10px; color: #a8c6ff;">Desarrollador Full Stack</h3>
+  <p style="color: #d9d9d9;">Proyectos académicos / personales</p>
+</div>
 
 <hr>
 
