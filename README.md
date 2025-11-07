@@ -5,7 +5,7 @@
 <h3 align="center">Desarrollador Full Stack</h3>
 <h3 align="center">Proyectos académicos / personales</h3>
 
-<hr>
+------
 
 <!-- Sección: Sobre mí -->
 <h2>🧠 Sobre mí</h2>
@@ -26,7 +26,7 @@
 
 <hr>
 
-<!-- Footer -->
-<p align="center">
-  🟢 <em>“Comer, dormir, codificar, repetir.”</em>
-</p>
+------
+Creéitos: [Lamk-S](https://github.com/Lamk-S)
+
+Last Edited on: 07/11/2025
