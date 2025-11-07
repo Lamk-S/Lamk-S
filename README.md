@@ -1,45 +1,54 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://www.xtrafondos.com/wallpapers/3840x2160/5487-comer-dormir-codificar-repetir.html" alt="Eat Sleep Code Repeat" width="100%" style="border-radius: 12px;">
+  <img src="A_digital_graphic_design_banner_features_@Lamk-S.png" alt="@Lamk-S - Desarrollador Full Stack" width="100%" />
 </p>
 
-<!-- Nombre y título -->
+<!-- Encabezado -->
 <h1 align="center">@Lamk-S</h1>
 <h3 align="center">💻 Desarrollador Full Stack</h3>
 <p align="center">🚀 Proyectos Académicos / Personales</p>
 
----
+<hr>
 
-### 🧠 Sobre mí  
-Soy **Melvin Kevin López Asto**, Ingeniero de Sistemas y **Full Stack Developer**.  
-Apasionado por la tecnología, la IA y el diseño de soluciones que fusionan **rendimiento, datos y experiencia de usuario**.  
-Busco siempre la excelencia en cada línea de código y la innovación como estándar de trabajo.
-
----
-
-### 🛠️ Tecnologías y herramientas  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,vue,nodejs,laravel,django,mysql,postgresql,git,github,vscode,linux" />
+<!-- Sección: Sobre mí -->
+<h2>🧠 Sobre mí</h2>
+<p>
+  <strong>Full Stack Developer</strong>. Me apasiona crear soluciones 
+  que integren <em>backend sólido</em>, <em>frontend dinámico</em> e 
+  <em>inteligencia artificial</em> aplicada.  
+  Busco siempre optimizar rendimiento, escalabilidad y diseño con precisión profesional.
 </p>
 
----
+<hr>
 
-### 🚧 Proyectos destacados  
-- 🎓 **Sistema de Gestión Académica** — Laravel · Vue.js · OpenAI · Flask  
-- 🍔 **Gestión de Pedidos de Comida Rápida** — Laravel · PHP · MySQL  
-- 🧬 **App de Predicción de Anemia** — Ionic · Flask · Node.js · Python (Scikit-Learn)  
-- 🧩 **Data Warehouse para Análisis Inteligente** — SQL Server · BigQuery · Power BI  
-
----
-
-### 📊 Estadísticas  
+<!-- Sección: Tecnologías -->
+<h2>🛠️ Tecnologías y herramientas</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lamk-S&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,vue,nodejs,laravel,django,mysql,postgresql,git,github,vscode,linux" alt="Tech Stack" />
+</p>
+
+<hr>
+
+<!-- Sección: Proyectos -->
+<h2>🚧 Proyectos Destacados</h2>
+<ul>
+  <li><b>🎓 Sistema de Gestión Académica</b> — Laravel · Vue.js · Flask · OpenAI</li>
+  <li><b>🏫 Gestión de Matrículas Estudiantiles</b> — Java · MySQL · JasperReports</li>
+  <li><b>🧬 App de Predicción de Anemia</b> — Ionic · Flask · Node.js · Python (Scikit-Learn)</li>
+  <li><b>🧩 Data Warehouse Inteligente</b> — SQL Server · BigQuery · Power BI</li>
+</ul>
+
+<hr>
+
+<!-- Sección: Estadísticas -->
+<h2>📊 Estadísticas</h2>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamk-S&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
----
+<hr>
 
+<!-- Footer -->
 <p align="center">
   🟢 <em>“Comer, dormir, codificar, repetir.”</em>
 </p>
