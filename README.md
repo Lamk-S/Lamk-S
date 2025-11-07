@@ -24,8 +24,6 @@
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,vue,nodejs,laravel,django,mysql,postgresql,git,github,vscode,linux" alt="Tech Stack" />
 </p>
 
-<hr>
-
 ------
 Creéitos: [Lamk-S](https://github.com/Lamk-S)
 
