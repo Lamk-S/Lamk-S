@@ -1,9 +1,9 @@
 <!-- Nombre y título -->
-<h1 align="center">@Lamk-S</h1>
-<h3 align="center">💻 Desarrollador Full Stack</h3>
-<p align="center">🚀 Proyectos Académicos / Personales</p>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<hr>
+<h1 align="center">Hi 👋, I'm Melvin López - @Lamk-S</h1>
+<h3 align="center">Desarrollador Full Stack</h3>
+<h3 align="center">Proyectos académicos / personales</h3>
 
 <!-- Sección: Sobre mí -->
 <h2>🧠 Sobre mí</h2>
@@ -32,14 +32,6 @@
   <li><b>🧬 App de Predicción de Anemia</b> — Ionic · Flask · Node.js · Python (Scikit-Learn)</li>
   <li><b>🧩 Data Warehouse Inteligente</b> — SQL Server · BigQuery · Power BI</li>
 </ul>
-
-<hr>
-
-<!-- Sección: Estadísticas -->
-<h2>📊 Estadísticas</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamk-S&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
 
 <hr>
 
