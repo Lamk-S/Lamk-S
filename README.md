@@ -1,16 +1,57 @@
-## Hi there 👋
+<!-- Banner principal -->
+<p align="center">
+  <img src="https://www.xtrafondos.com/wallpapers/3840x2160/5487-comer-dormir-codificar-repetir.html" alt="Eat Sleep Code Repeat" width="100%" style="border-radius: 12px;">
+</p>
 
-<!--
-**Lamk-S/Lamk-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Nombre y título -->
+<h1 align="center">@Lamk-S</h1>
+<h3 align="center">💻 Desarrollador Full Stack</h3>
+<p align="center">🚀 Proyectos Académicos / Personales</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mí  
+Soy **Melvin Kevin López Asto**, Ingeniero de Sistemas y **Full Stack Developer**.  
+Apasionado por la tecnología, la IA y el diseño de soluciones que fusionan **rendimiento, datos y experiencia de usuario**.  
+Busco siempre la excelencia en cada línea de código y la innovación como estándar de trabajo.
+
+---
+
+### 🛠️ Tecnologías y herramientas  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,vue,nodejs,laravel,django,mysql,postgresql,git,github,vscode,linux" />
+</p>
+
+---
+
+### 🚧 Proyectos destacados  
+- 🎓 **Sistema de Gestión Académica** — Laravel · Vue.js · OpenAI · Flask  
+- 🍔 **Gestión de Pedidos de Comida Rápida** — Laravel · PHP · MySQL  
+- 🧬 **App de Predicción de Anemia** — Ionic · Flask · Node.js · Python (Scikit-Learn)  
+- 🧩 **Data Warehouse para Análisis Inteligente** — SQL Server · BigQuery · Power BI  
+
+---
+
+### 📊 Estadísticas  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lamk-S&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamk-S&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🌐 Conecta conmigo  
+<p align="center">
+  <a href="https://linkedin.com/in/lamk-sd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kunlancelot@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🟢 <em>“Comer, dormir, codificar, repetir.”</em>
+</p>
