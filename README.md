@@ -5,6 +5,8 @@
 <h3 align="center">Desarrollador Full Stack</h3>
 <h3 align="center">Proyectos académicos / personales</h3>
 
+<hr>
+
 <!-- Sección: Sobre mí -->
 <h2>🧠 Sobre mí</h2>
 <p>
@@ -21,17 +23,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,vue,nodejs,laravel,django,mysql,postgresql,git,github,vscode,linux" alt="Tech Stack" />
 </p>
-
-<hr>
-
-<!-- Sección: Proyectos -->
-<h2>🚧 Proyectos Destacados</h2>
-<ul>
-  <li><b>🎓 Sistema de Gestión Académica</b> — Laravel · Vue.js · Flask · OpenAI</li>
-  <li><b>🏫 Gestión de Matrículas Estudiantiles</b> — Java · MySQL · JasperReports</li>
-  <li><b>🧬 App de Predicción de Anemia</b> — Ionic · Flask · Node.js · Python (Scikit-Learn)</li>
-  <li><b>🧩 Data Warehouse Inteligente</b> — SQL Server · BigQuery · Power BI</li>
-</ul>
 
 <hr>
 
