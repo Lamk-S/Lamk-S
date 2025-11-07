@@ -1,6 +1,6 @@
 <!-- Banner con texto sobre la imagen -->
 <div align="center" style="position: relative; text-align: center;">
-  <img src="A_digital_graphic_design_banner_features_@Lamk-S.j´g" 
+  <img src="A_digital_graphic_design_banner_features_@Lamk-S.jpg" 
        alt="Comer Dormir Codificar Repetir" 
        width="100%" />
 
