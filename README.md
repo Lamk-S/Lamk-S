@@ -1,5 +1,5 @@
 <!-- Nombre y título -->
-<img align="left" src="lateral-lk.gif" width="21%" style="display:inline;"><img align="right" src="lateral-lk.gif" width="21%" style="display:inline;">
+<img align="left" src="lateral-lk.gif" width="100px" style="display:inline;"><img align="right" src="lateral-lk.gif" width="100px" style="display:inline;">
 
 <h1 align="center">Hola 👋, Soy @Lamk-S</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
