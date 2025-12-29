@@ -1,11 +1,10 @@
 <!-- Nombre y título -->
-<img align="left" src="lateral-lk.gif" width="100px" style="display:inline;"><img align="right" src="lateral-lk.gif" width="100px" style="display:inline;">
+<img align="left" src="lateral-lk.gif" width="90px">
+<img align="right" src="lateral-lk.gif" width="90px">
 
-<h1 align="center">Hola 👋, Soy @Lamk-S</h1>
-<h3 align="center">Desarrollador Full Stack</h3>
-<h3 align="center">Proyectos académicos / personales</h3>
-
-<h1 align="center"></h1>
+<p align="center">
+  <img src="lamk.svg" />
+</p>
 
 <!-- Sección: Sobre mí -->
 <h2>🧠 Sobre mí</h2>
