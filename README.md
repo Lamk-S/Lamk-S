@@ -1,9 +1,9 @@
 <!-- Nombre y título -->
-<img align="left" src="lateral-lk.gif" width="90px">
-<img align="right" src="lateral-lk.gif" width="90px">
+<img align="left" src="lateral-lk.gif" width="80" style="display:inline;">
+<img align="right" src="lateral-lk.gif" width="80" style="display:inline;">
 
-<p align="center">
-  <img src="lamk.svg" />
+<p align="center style="display:inline;"">
+  <img src="lamk.svg" width="750" style="display:inline;"/>
 </p>
 
 <!-- Sección: Sobre mí -->
