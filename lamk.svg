@@ -1,0 +1,52 @@
+<svg
+  width="800"
+  height="200"
+  viewBox="0 0 800 200"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+    <!-- Gradiente animado -->
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF">
+        <animate attributeName="offset" values="0;1" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#1E90FF">
+        <animate attributeName="offset" values="0.5;1.5" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#00F7FF">
+        <animate attributeName="offset" values="1;2" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Nombre -->
+  <text
+    x="50%"
+    y="45%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-size="56"
+    font-family="Noto Sans, Arial, sans-serif"
+    font-weight="800"
+    fill="url(#grad)"
+  >
+    Lamk-S
+  </text>
+
+  <!-- Subtítulo -->
+  <text
+    x="50%"
+    y="70%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-size="20"
+    font-family="Noto Sans, Arial, sans-serif"
+    fill="#b0eaff"
+    opacity="0"
+  >
+    Junior Software Developer | Backend &amp; Frontend
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.8s" fill="freeze"/>
+  </text>
+
+</svg>
