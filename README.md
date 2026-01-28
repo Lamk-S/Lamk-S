@@ -1,6 +1,6 @@
 <!-- Nombre y título -->
 <p align="center">
-  <img src="lamk.svg" width="750" />
+  <img src="https://raw.githubusercontent.com/Lamk-S/Lamk-S/main/lamk.svg" width="750" />
 </p>
 
 <!-- Sección: Sobre mí -->
