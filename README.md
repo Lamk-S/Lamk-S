@@ -6,7 +6,7 @@
 <!-- Sección: Sobre mí -->
 <h2>🧠 Sobre mí</h2>
 <p>
-  <strong>Full Stack Developer</strong>. Me apasiona crear soluciones 
+  Me apasiona crear soluciones 
   que integren <em>backend sólido</em>, <em>frontend dinámico</em> e 
   <em>inteligencia artificial</em> aplicada.  
   Busco siempre optimizar rendimiento, escalabilidad y diseño con precisión profesional.
