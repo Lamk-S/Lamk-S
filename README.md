@@ -45,7 +45,8 @@
 <!-- Sección: Estadísticas -->
 <h2>📊 Mis Estadísticas</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lamk-S&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Racha de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lamk-S&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Estadísticas de Lamk-S" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Lamk-S&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Racha de GitHub" width="48%" />
 </p>
 
 <hr>
