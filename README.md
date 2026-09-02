@@ -3,9 +3,6 @@
   <img src="https://github.com/Lamk-S/Lamk-S/blob/main/lamk.svg" width="750" />
 </p>
 
-<h1 align="center">Hola, soy Melvin</h1>
-<h3 align="center">Desarrollador Web y Móvil (Full-Stack)</h3>
-
 <p align="center">
   Transformo problemas complejos en soluciones tecnológicas escalables, eficientes y con un diseño de alta precisión.
 </p>
