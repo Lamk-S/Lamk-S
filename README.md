@@ -75,7 +75,7 @@ Plataforma que unifica motores competitivos con reglas generacionales precisas (
   </a>
 </p>
 
-**Frontend:** React 19, Next.js 15, Vue.js, Tailwind CSS v4, Radix UI, Bootstrap 5  
+**Frontend:** React 19, Next.js 16, Vue.js, Tailwind CSS v4, Radix UI, Bootstrap 5  
 **Backend:** Laravel, Node.js / Express, Django, Flask, Supabase (Auth, RLS, Realtime)  
 **Mobile:** Flutter (Clean Arch), Ionic  
 **Data:** PostgreSQL, MySQL, SQL Server, IndexedDB (Dexie.js), BigQuery  
