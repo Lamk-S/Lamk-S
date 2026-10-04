@@ -52,7 +52,7 @@ Sistema POS & inventario para retail deportivo + app móvil de escaneo. Flujo de
 - Auditoría completa: timestamp, usuario e IP por movimiento
 - App Flutter Clean Architecture con `mobile_scanner`, mecanismo de cooldown anti-duplicados e historial local persistente
 
-`Laravel 11` `PHP 8.x` `MySQL` `Bootstrap 5` `Flutter` `Dart` `Clean Architecture`
+`Laravel 12` `PHP 8.x` `MySQL` `Bootstrap 5` `Flutter` `Dart` `Clean Architecture`
 
 #### 3. [PokeGuide – Competitive Pokémon Intelligence Platform](https://github.com/Lamk-S/PokeGuide)
 Plataforma que unifica motores competitivos con reglas generacionales precisas (Gen III vs Gen IX). Mi proyecto más orientado a DDD y calidad.
@@ -63,7 +63,7 @@ Plataforma que unifica motores competitivos con reglas generacionales precisas (
 - Validación inteligente EVs: `maxForThisStat = min(252, remaining)` y naturaleza i18n ES
 - Quality Gate: Vitest + Playwright + typecheck + lint en GitHub Actions
 
-`Next.js 15` `TypeScript` `Vitest` `Playwright` `Biome` `PokeAPI`
+`Next.js 16` `TypeScript` `Vitest` `Playwright` `Biome` `PokeAPI`
 
 ---
 
